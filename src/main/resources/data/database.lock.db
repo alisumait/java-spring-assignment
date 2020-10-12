@@ -1,0 +1,6 @@
+#FileLock
+#Mon Oct 12 00:46:50 UTC 2020
+server=192.168.1.2\:51367
+hostName=192.168.1.2
+method=file
+id=1751a4622e3be88dd263b63fe8dcf0b3efd94b3b9e4

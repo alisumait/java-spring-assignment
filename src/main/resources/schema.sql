@@ -1,0 +1,8 @@
+DROP TABLE IF EXISTS USERS_FEATURES;
+
+CREATE TABLE USERS_FEATURES(
+    id INT AUTO_INCREMENT  PRIMARY KEY,
+    email varchar(25) NOT NULL,
+    feature_name varchar(50) NOT NULL,
+    can_access bool NOT NULL
+);
